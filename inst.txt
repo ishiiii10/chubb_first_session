@@ -1,10 +1,6 @@
 this is ishika creating for testing git.
 this is PRUTHVI for testing git
 Hey, this is Sai Teja from VNR college, Hyderabad.
-<<<<<<< HEAD
-=======
-"this is shalini" 
 Hi, I am Saketh from VNRVJIET
 "Hi I am Aryan from VIT Chennnai" 
 "Hi I am Aryan from VIT Chennnai" 
->>>>>>> 91c1a5a1283a48454d99373f9e60f6851f523345
